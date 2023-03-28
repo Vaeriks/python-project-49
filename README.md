@@ -3,4 +3,4 @@
 
 https://asciinema.org/a/0rIJSczpehApm5NSNTfFaqR91
 
-<script async id="asciicast-CzK9sCTspQG0SpgSCF4tfXAN2" src="https://asciinema.org/a/CzK9sCTspQG0SpgSCF4tfXAN2.js"></script>
+<script src="https://asciinema.org/a/CzK9sCTspQG0SpgSCF4tfXAN2.js"async></script>
