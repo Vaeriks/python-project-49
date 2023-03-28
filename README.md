@@ -3,4 +3,4 @@
 
 https://asciinema.org/a/0rIJSczpehApm5NSNTfFaqR91
 
-<script src="https://asciinema.org/a/CzK9sCTspQG0SpgSCF4tfXAN2.js"async></script>
+<a href="https://asciinema.org/a/CzK9sCTspQG0SpgSCF4tfXAN2" target="_blank"><img src="https://asciinema.org/a/CzK9sCTspQG0SpgSCF4tfXAN2.svg" /></a>
