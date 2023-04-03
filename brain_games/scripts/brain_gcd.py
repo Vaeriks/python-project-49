@@ -5,7 +5,7 @@ from brain_games.nod import game
 
 
 def main():
-    rules = 'Find the greatest common divisor of given numbers'
+    rules = 'Find the greatest common divisor of given numbers.'
     games_(rules, game)
 
 
