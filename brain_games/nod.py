@@ -15,8 +15,8 @@ def game():
     else:
         count = 1
         result = []
-        end = int(num_min / 2)
-        while count < end:
+        end = int(num_min)
+        while count <= end:
             if (num_1 % count == 0) and (num_2 % count == 0):
                 result.append(count)
                 count += 1
