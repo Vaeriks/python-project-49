@@ -5,7 +5,7 @@ from brain_games.even import game
 
 
 def main():
-    rules = 'Answer "yes" if the number is even, otherwise answer "no"'
+    rules = 'Answer "yes" if the number is even, otherwise answer "no".'
     games_(rules, game)
 
 
