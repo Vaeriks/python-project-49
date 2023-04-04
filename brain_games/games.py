@@ -15,7 +15,8 @@ def games_(rules, game):
             if i == 3:
                 print(f"Congratulations, {name}!")
         else:
+            uncorrect = 'is wrong answer ;(.'
             print(
-                f"'{answer_user}' is wrong answer ;(. Correct answer was '{answer}'.")
+                f"'{answer_user}' {uncorrect} Correct answer was '{answer}'.")
             print(f"Let's try again, {name}!")
             break

@@ -11,4 +11,3 @@ def game():
     else:
         answer_1 = 'no'
     return answer_1, answer_user_1
-    
