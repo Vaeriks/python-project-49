@@ -3,12 +3,12 @@ from random import randint
 
 
 def game():
-    number = randint(1, 50)
+    number = randint(1, 30)
     print(f'Question: {number}')
     answer_user_1 = prompt.string("Your answer: ")
     count = 1
     result = []
-    end = int(number / 2)
+    end = int(number)
     while count < end:
         if number % count == 0:
             result.append(count)
