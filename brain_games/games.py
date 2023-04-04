@@ -16,5 +16,6 @@ def games_(rules, game):
                 print(f"Congratulations, {name}!")
         else:
             print(
-                f"'{answer_user}' is wrong answer ;(. Correct answer was '{answer}'.\nLet's try again, {name}!")
+                f"'{answer_user}' is wrong answer ;(. Correct answer was '{answer}'.")
+            print(f"Let's try again, {name}!")
             break
